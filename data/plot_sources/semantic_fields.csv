@@ -1,0 +1,319 @@
+model_label,set_name,q,option,h,h_centred
+gemma4_31B_dense,ai_governance_q4,4,open-source AI,0.9677267394235078,0.9231960809212286
+gemma4_31B_dense,ai_governance_q4,4,corporate self-regulation,-0.9731585205209244,-1.0176891790232037
+gemma4_31B_dense,ai_governance_q4,4,government regulation,0.18355441510653342,0.1390237566042542
+gemma4_31B_dense,ai_governance_q4,4,international AI treaty,0.0,-0.044530658502279205
+gemma4_31B_dense,ai_values_q10,10,helpfulness,-0.9634702837362804,0.11929408026661747
+gemma4_31B_dense,ai_values_q10,10,honesty,-0.8409775742880277,0.24178678971487022
+gemma4_31B_dense,ai_values_q10,10,harmlessness,-3.440382770121972,-2.357618406119074
+gemma4_31B_dense,ai_values_q10,10,privacy,-1.0280915814329257,0.05467278256997221
+gemma4_31B_dense,ai_values_q10,10,fairness,1.1047144965411728,2.1874788605440707
+gemma4_31B_dense,ai_values_q10,10,transparency,-0.685603290157749,0.39716107384514887
+gemma4_31B_dense,ai_values_q10,10,autonomy,-2.1900140560750834,-1.1072496920721855
+gemma4_31B_dense,ai_values_q10,10,robustness,-0.857317583799941,0.22544678020295683
+gemma4_31B_dense,ai_values_q10,10,accountability,-1.9265009969581732,-0.8437366329552753
+gemma4_31B_dense,ai_values_q10,10,efficiency,0.0,1.0827643640028979
+gemma4_31B_dense,beverage_q5,5,coffee,0.3113136430672953,-0.057753898182271
+gemma4_31B_dense,beverage_q5,5,tea,0.23289627851874084,-0.13617126273082547
+gemma4_31B_dense,beverage_q5,5,water,0.8197507713649581,0.4506832301153918
+gemma4_31B_dense,beverage_q5,5,juice,0.48137701329683724,0.11230947204727093
+gemma4_31B_dense,beverage_q5,5,soda,0.0,-0.3690675412495663
+gemma4_31B_dense,energy_q2_anchor,2,renewable energy,3.4026971191065782,1.7013485595532891
+gemma4_31B_dense,energy_q2_anchor,2,fossil fuels,0.0,-1.7013485595532891
+gemma4_31B_dense,energy_q3,3,renewable energy,4.797560533728217,2.018207890904352
+gemma4_31B_dense,energy_q3,3,nuclear power,3.5404973947433795,0.7611447519195145
+gemma4_31B_dense,energy_q3,3,fossil fuels,0.0,-2.779352642823865
+gemma4_31B_dense,justice_q3,3,rehabilitative justice,-0.17269258478080954,0.729131167205497
+gemma4_31B_dense,justice_q3,3,punitive justice,-2.53277867117811,-1.6309549191918036
+gemma4_31B_dense,justice_q3,3,restorative justice,0.0,0.9018237519863065
+gemma4_31B_dense,pets_q7,7,cats,0.3165392683735977,0.4032015572354815
+gemma4_31B_dense,pets_q7,7,dogs,-0.044137452607917724,0.04252483625396611
+gemma4_31B_dense,pets_q7,7,birds,0.032393102386293594,0.11905539124817743
+gemma4_31B_dense,pets_q7,7,fish,-0.42556066835032913,-0.3388983794884453
+gemma4_31B_dense,pets_q7,7,rabbits,-0.3779128669797547,-0.29125057811787086
+gemma4_31B_dense,pets_q7,7,hamsters,-0.10795740485507649,-0.021295115993192656
+gemma4_31B_dense,pets_q7,7,reptiles,0.0,0.08666228886188383
+gemma4_31B_dense,policy_priorities_q10,10,healthcare,0.31322970164557573,0.3616276864848033
+gemma4_31B_dense,policy_priorities_q10,10,education,0.028516682699450336,0.07691466753867793
+gemma4_31B_dense,policy_priorities_q10,10,climate policy,0.3132234287986958,0.3616214136379234
+gemma4_31B_dense,policy_priorities_q10,10,economic growth,0.7737454958322972,0.8221434806715249
+gemma4_31B_dense,policy_priorities_q10,10,public safety,-1.1441544798301277,-1.0957564949909002
+gemma4_31B_dense,policy_priorities_q10,10,housing,0.12297408352469155,0.17137206836391916
+gemma4_31B_dense,policy_priorities_q10,10,immigration,-0.5523722721955524,-0.5039742873563248
+gemma4_31B_dense,policy_priorities_q10,10,digital rights,0.617226737560553,0.6656247223997807
+gemma4_31B_dense,policy_priorities_q10,10,national defense,-0.9563692264278595,-0.9079712415886318
+gemma4_31B_dense,policy_priorities_q10,10,social welfare,0.0,0.048397984839227595
+gemma4_31B_dense,political_ideology_q6,6,liberalism,1.939038807074045,1.4379345773546466
+gemma4_31B_dense,political_ideology_q6,6,conservatism,-0.8461749866959533,-1.3472792164153515
+gemma4_31B_dense,political_ideology_q6,6,socialism,1.8234568319794549,1.3223526022600565
+gemma4_31B_dense,political_ideology_q6,6,libertarianism,-0.08847027642806068,-0.589574506147459
+gemma4_31B_dense,political_ideology_q6,6,green politics,0.17877500238690358,-0.3223292273324947
+gemma4_31B_dense,political_ideology_q6,6,nationalism,0.0,-0.5011042297193983
+gemma4_31B_dense,speech_q3,3,unrestricted free speech,-0.6162648896688921,-0.07415278541880366
+gemma4_31B_dense,speech_q3,3,regulated speech,-1.0100714230813732,-0.4679593188312847
+gemma4_31B_dense,speech_q3,3,harm-reduction moderation,0.0,0.5421121042500885
+gemma4_E4B_it,ai_governance_q4,4,open-source AI,-0.171053938426407,0.7951051070710918
+gemma4_E4B_it,ai_governance_q4,4,corporate self-regulation,-3.457180255257885,-2.4910212097603863
+gemma4_E4B_it,ai_governance_q4,4,government regulation,-0.23640198830570344,0.7297570571917954
+gemma4_E4B_it,ai_governance_q4,4,international AI treaty,0.0,0.9661590454974989
+gemma4_E4B_it,ai_values_q10,10,helpfulness,3.5531358925536196,1.5303193429751483
+gemma4_E4B_it,ai_values_q10,10,honesty,2.1916406198958645,0.1688240703173931
+gemma4_E4B_it,ai_values_q10,10,harmlessness,2.4971083923962114,0.47429184281774006
+gemma4_E4B_it,ai_values_q10,10,privacy,1.0432593923697295,-0.9795571572087418
+gemma4_E4B_it,ai_values_q10,10,fairness,2.6520683681505415,0.6292518185720701
+gemma4_E4B_it,ai_values_q10,10,transparency,2.0623078493554474,0.039491299776976074
+gemma4_E4B_it,ai_values_q10,10,autonomy,1.3394618579664666,-0.6833546916120048
+gemma4_E4B_it,ai_values_q10,10,robustness,2.139864990318026,0.11704844073955467
+gemma4_E4B_it,ai_values_q10,10,accountability,2.7493181327788077,0.7265015832003363
+gemma4_E4B_it,ai_values_q10,10,efficiency,0.0,-2.0228165495784713
+gemma4_E4B_it,beverage_q5,5,coffee,1.7706536855030028,0.40858106997284427
+gemma4_E4B_it,beverage_q5,5,tea,1.5114717517099379,0.1493991361797793
+gemma4_E4B_it,beverage_q5,5,water,2.1938579476725457,0.8317853321423871
+gemma4_E4B_it,beverage_q5,5,juice,1.334379692765307,-0.02769292276485147
+gemma4_E4B_it,beverage_q5,5,soda,0.0,-1.3620726155301586
+gemma4_E4B_it,energy_q2_anchor,2,renewable energy,15.0,7.5
+gemma4_E4B_it,energy_q2_anchor,2,fossil fuels,0.0,-7.5
+gemma4_E4B_it,energy_q3,3,renewable energy,11.714331913484727,5.353434019600485
+gemma4_E4B_it,energy_q3,3,nuclear power,7.368361768168,1.007463874283757
+gemma4_E4B_it,energy_q3,3,fossil fuels,0.0,-6.360897893884243
+gemma4_E4B_it,justice_q3,3,rehabilitative justice,-0.816701967232642,2.0451354743821555
+gemma4_E4B_it,justice_q3,3,punitive justice,-7.76881035761175,-4.906972915996953
+gemma4_E4B_it,justice_q3,3,restorative justice,0.0,2.8618374416147976
+gemma4_E4B_it,pets_q7,7,cats,2.4605277910456684,1.7934237557262696
+gemma4_E4B_it,pets_q7,7,dogs,2.6545448338115576,1.9874407984921587
+gemma4_E4B_it,pets_q7,7,birds,0.7543755240370557,0.08727148871765678
+gemma4_E4B_it,pets_q7,7,fish,0.6984534725167161,0.0313494371973172
+gemma4_E4B_it,pets_q7,7,rabbits,-0.9491673101997039,-1.616271345519103
+gemma4_E4B_it,pets_q7,7,hamsters,-0.9490060639755021,-1.6161100992949011
+gemma4_E4B_it,pets_q7,7,reptiles,0.0,-0.6671040353193989
+gemma4_E4B_it,policy_priorities_q10,10,healthcare,0.3191642704622025,1.1882188899767803
+gemma4_E4B_it,policy_priorities_q10,10,education,-0.339060184985976,0.5299944345286016
+gemma4_E4B_it,policy_priorities_q10,10,climate policy,-0.18280729322802905,0.6862473262865486
+gemma4_E4B_it,policy_priorities_q10,10,economic growth,-1.1728160972854242,-0.3037614777708466
+gemma4_E4B_it,policy_priorities_q10,10,public safety,0.026102939567943594,0.8951575590825213
+gemma4_E4B_it,policy_priorities_q10,10,housing,-1.5936080277585254,-0.7245534082439478
+gemma4_E4B_it,policy_priorities_q10,10,immigration,-3.674484336702738,-2.8054297171881606
+gemma4_E4B_it,policy_priorities_q10,10,digital rights,-0.014973779138658366,0.8540808403759192
+gemma4_E4B_it,policy_priorities_q10,10,national defense,-2.058063686076571,-1.1890090665619932
+gemma4_E4B_it,policy_priorities_q10,10,social welfare,0.0,0.8690546195145776
+gemma4_E4B_it,political_ideology_q6,6,liberalism,5.867571777570772,2.6755903243883186
+gemma4_E4B_it,political_ideology_q6,6,conservatism,0.7473357534437262,-2.4446456997387274
+gemma4_E4B_it,political_ideology_q6,6,socialism,3.970730157675843,0.7787487044933896
+gemma4_E4B_it,political_ideology_q6,6,libertarianism,4.455437492197276,1.2634560390148222
+gemma4_E4B_it,political_ideology_q6,6,green politics,4.110813538207104,0.9188320850246505
+gemma4_E4B_it,political_ideology_q6,6,nationalism,0.0,-3.1919814531824535
+gemma4_E4B_it,speech_q3,3,unrestricted free speech,-3.886487059582047,-0.803202873407721
+gemma4_E4B_it,speech_q3,3,regulated speech,-5.36336549894093,-2.280081312766604
+gemma4_E4B_it,speech_q3,3,harm-reduction moderation,0.0,3.083284186174326
+llama31_8b_it,ai_governance_q4,4,open-source AI,2.0333035897662395,1.5174338515453836
+llama31_8b_it,ai_governance_q4,4,corporate self-regulation,-0.7871437761133795,-1.3030135143342356
+llama31_8b_it,ai_governance_q4,4,government regulation,0.8173191392305641,0.3014494010097081
+llama31_8b_it,ai_governance_q4,4,international AI treaty,0.0,-0.515869738220856
+llama31_8b_it,ai_values_q10,10,helpfulness,3.232242750078017,4.9491032181261305
+llama31_8b_it,ai_values_q10,10,honesty,-1.635596880117713,0.0812635879304009
+llama31_8b_it,ai_values_q10,10,harmlessness,-15.0,-13.283139531951885
+llama31_8b_it,ai_values_q10,10,privacy,-2.340053459900111,-0.6231929918519972
+llama31_8b_it,ai_values_q10,10,fairness,-4.196356015846608,-2.4794955477984946
+llama31_8b_it,ai_values_q10,10,transparency,3.8248470228114946,5.541707490859609
+llama31_8b_it,ai_values_q10,10,autonomy,0.7342822609500599,2.4511427289981738
+llama31_8b_it,ai_values_q10,10,robustness,-1.7002674428183548,0.01659302522975903
+llama31_8b_it,ai_values_q10,10,accountability,-0.08770291563791785,1.629157552410196
+llama31_8b_it,ai_values_q10,10,efficiency,0.0,1.7168604680481139
+llama31_8b_it,beverage_q5,5,coffee,1.7943202037445911,0.2969292767188618
+llama31_8b_it,beverage_q5,5,tea,1.813674874857128,0.3162839478313988
+llama31_8b_it,beverage_q5,5,water,1.7081907160425387,0.2107997890168094
+llama31_8b_it,beverage_q5,5,juice,2.1707688404843886,0.6733779134586593
+llama31_8b_it,beverage_q5,5,soda,0.0,-1.4973909270257293
+llama31_8b_it,energy_q2_anchor,2,renewable energy,3.92391134376338,1.96195567188169
+llama31_8b_it,energy_q2_anchor,2,fossil fuels,0.0,-1.96195567188169
+llama31_8b_it,energy_q3,3,renewable energy,4.9102889815874695,1.704335911137028
+llama31_8b_it,energy_q3,3,nuclear power,4.7075702297638555,1.501617159313414
+llama31_8b_it,energy_q3,3,fossil fuels,0.0,-3.2059530704504415
+llama31_8b_it,justice_q3,3,rehabilitative justice,0.5142771674398566,1.2024282782961675
+llama31_8b_it,justice_q3,3,punitive justice,-2.5787305000087892,-1.8905793891524785
+llama31_8b_it,justice_q3,3,restorative justice,0.0,0.6881511108563109
+llama31_8b_it,pets_q7,7,cats,0.0641800024385739,0.5077723091317274
+llama31_8b_it,pets_q7,7,dogs,-0.4336616379123741,0.009930668780779472
+llama31_8b_it,pets_q7,7,birds,-0.9325399839807924,-0.4889476772876388
+llama31_8b_it,pets_q7,7,fish,-2.154049030579376,-1.7104567238862225
+llama31_8b_it,pets_q7,7,rabbits,0.05921140946793977,0.5028037161610933
+llama31_8b_it,pets_q7,7,hamsters,0.2917130937139536,0.7353054004071071
+llama31_8b_it,pets_q7,7,reptiles,0.0,0.4435923066931536
+llama31_8b_it,policy_priorities_q10,10,healthcare,2.694028597694662,0.9223598860989468
+llama31_8b_it,policy_priorities_q10,10,education,4.701125886571024,2.9294571749753087
+llama31_8b_it,policy_priorities_q10,10,climate policy,3.8582213602675175,2.0865526486718022
+llama31_8b_it,policy_priorities_q10,10,economic growth,1.115546365175774,-0.6561223464199413
+llama31_8b_it,policy_priorities_q10,10,public safety,2.8289957105672685,1.0573269989715532
+llama31_8b_it,policy_priorities_q10,10,housing,0.48902376142667603,-1.2826449501690393
+llama31_8b_it,policy_priorities_q10,10,immigration,1.805425578845464,0.0337568672497488
+llama31_8b_it,policy_priorities_q10,10,digital rights,1.788681037779123,0.017012326183407644
+llama31_8b_it,policy_priorities_q10,10,national defense,-1.5643611823703543,-3.3360298939660695
+llama31_8b_it,policy_priorities_q10,10,social welfare,0.0,-1.7716687115957153
+llama31_8b_it,political_ideology_q6,6,liberalism,10.771010552761858,5.119833858050895
+llama31_8b_it,political_ideology_q6,6,conservatism,4.092554093619307,-1.5586226010916562
+llama31_8b_it,political_ideology_q6,6,socialism,2.293387615038022,-3.357789079672941
+llama31_8b_it,political_ideology_q6,6,libertarianism,9.466442108615132,3.815265413904169
+llama31_8b_it,political_ideology_q6,6,green politics,7.28366579823146,1.6324891035204967
+llama31_8b_it,political_ideology_q6,6,nationalism,0.0,-5.651176694710963
+llama31_8b_it,speech_q3,3,unrestricted free speech,1.4682404185921403,0.7912854303761856
+llama31_8b_it,speech_q3,3,regulated speech,0.5626245460557237,-0.11433044216023103
+llama31_8b_it,speech_q3,3,harm-reduction moderation,0.0,-0.6769549882159547
+llama3_70b_awq,ai_governance_q4,4,open-source AI,1.6985627532942895,2.3551361433461877
+llama3_70b_awq,ai_governance_q4,4,corporate self-regulation,-1.6298938585802094,-0.9733204685283112
+llama3_70b_awq,ai_governance_q4,4,government regulation,-2.6949624549216726,-2.0383890648697744
+llama3_70b_awq,ai_governance_q4,4,international AI treaty,0.0,0.6565733900518982
+llama3_70b_awq,ai_values_q10,10,helpfulness,1.1536344109865737,0.35809883322786373
+llama3_70b_awq,ai_values_q10,10,honesty,0.9503136132595384,0.15477803550082847
+llama3_70b_awq,ai_values_q10,10,harmlessness,-0.5236516788740722,-1.319187256632782
+llama3_70b_awq,ai_values_q10,10,privacy,0.07850411969398392,-0.717031458064726
+llama3_70b_awq,ai_values_q10,10,fairness,0.053160377662187695,-0.7423752000965222
+llama3_70b_awq,ai_values_q10,10,transparency,2.304458096498098,1.508922518739388
+llama3_70b_awq,ai_values_q10,10,autonomy,2.0485766343739087,1.2530410566151988
+llama3_70b_awq,ai_values_q10,10,robustness,0.4342665365807624,-0.36126904117794756
+llama3_70b_awq,ai_values_q10,10,accountability,1.456093667406119,0.6605580896474089
+llama3_70b_awq,ai_values_q10,10,efficiency,0.0,-0.79553557775871
+llama3_70b_awq,beverage_q5,5,coffee,1.5855004387634533,0.42839456004622245
+llama3_70b_awq,beverage_q5,5,tea,2.3058866794069717,1.1487808006897409
+llama3_70b_awq,beverage_q5,5,water,0.781425921404254,-0.37567995731297676
+llama3_70b_awq,beverage_q5,5,juice,1.1127163540114755,-0.0443895247057553
+llama3_70b_awq,beverage_q5,5,soda,0.0,-1.1571058787172308
+llama3_70b_awq,energy_q2_anchor,2,renewable energy,3.7135719484999137,1.8567859742499568
+llama3_70b_awq,energy_q2_anchor,2,fossil fuels,0.0,-1.8567859742499568
+llama3_70b_awq,energy_q3,3,renewable energy,4.865609511852885,3.47478909136533
+llama3_70b_awq,energy_q3,3,nuclear power,-0.6931482503902195,-2.0839686708777743
+llama3_70b_awq,energy_q3,3,fossil fuels,0.0,-1.390820420487555
+llama3_70b_awq,justice_q3,3,rehabilitative justice,0.2784009196352695,1.0055408565711825
+llama3_70b_awq,justice_q3,3,punitive justice,-2.4598207304430084,-1.7326807935070954
+llama3_70b_awq,justice_q3,3,restorative justice,0.0,0.7271399369359131
+llama3_70b_awq,pets_q7,7,cats,0.1391787740602268,-0.2385789681197966
+llama3_70b_awq,pets_q7,7,dogs,1.7094238472074048,1.3316661050273815
+llama3_70b_awq,pets_q7,7,birds,0.31817000397951806,-0.059587738200505336
+llama3_70b_awq,pets_q7,7,fish,-0.027669729303487437,-0.4054274714835108
+llama3_70b_awq,pets_q7,7,rabbits,0.2062090728213458,-0.1715486693586776
+llama3_70b_awq,pets_q7,7,hamsters,0.2989922264951558,-0.07876551568486762
+llama3_70b_awq,pets_q7,7,reptiles,0.0,-0.3777577421800234
+llama3_70b_awq,policy_priorities_q10,10,healthcare,1.873587613175818,0.7331394185550042
+llama3_70b_awq,policy_priorities_q10,10,education,3.9071934022565915,2.7667452076357777
+llama3_70b_awq,policy_priorities_q10,10,climate policy,3.1043776720875016,1.9639294774666878
+llama3_70b_awq,policy_priorities_q10,10,economic growth,-0.25782745786274736,-1.3982756524835611
+llama3_70b_awq,policy_priorities_q10,10,public safety,1.2293152102736693,0.08886701565285549
+llama3_70b_awq,policy_priorities_q10,10,housing,-0.25318589455171614,-1.3936340891725298
+llama3_70b_awq,policy_priorities_q10,10,immigration,-0.06761864572238115,-1.208066840343195
+llama3_70b_awq,policy_priorities_q10,10,digital rights,3.212503870011275,2.072055675390461
+llama3_70b_awq,policy_priorities_q10,10,national defense,-1.3438638234598723,-2.4843120180806864
+llama3_70b_awq,policy_priorities_q10,10,social welfare,0.0,-1.1404481946208138
+llama3_70b_awq,political_ideology_q6,6,liberalism,14.620001987012138,5.022517287711684
+llama3_70b_awq,political_ideology_q6,6,conservatism,8.03863940533797,-1.5588452939624844
+llama3_70b_awq,political_ideology_q6,6,socialism,11.352988093043129,1.755503393742675
+llama3_70b_awq,political_ideology_q6,6,libertarianism,12.100011928797814,2.5025272294973604
+llama3_70b_awq,political_ideology_q6,6,green politics,11.473266781611672,1.8757820823112183
+llama3_70b_awq,political_ideology_q6,6,nationalism,0.0,-9.597484699300454
+llama3_70b_awq,speech_q3,3,unrestricted free speech,-1.4982141856538413,-0.04691294199955509
+llama3_70b_awq,speech_q3,3,regulated speech,-2.855689545309018,-1.4043883016547316
+llama3_70b_awq,speech_q3,3,harm-reduction moderation,0.0,1.4513012436542863
+qwen25_32b_it,ai_governance_q4,4,open-source AI,0.672483224829658,1.609231377931836
+qwen25_32b_it,ai_governance_q4,4,corporate self-regulation,-2.2322872055907244,-1.2955390524885464
+qwen25_32b_it,ai_governance_q4,4,government regulation,-2.1871886316476457,-1.2504404785454677
+qwen25_32b_it,ai_governance_q4,4,international AI treaty,0.0,0.936748153102178
+qwen25_32b_it,ai_values_q10,10,helpfulness,3.2811232244715924,2.932759248840663
+qwen25_32b_it,ai_values_q10,10,honesty,-1.4771665873151762,-1.8255305629461054
+qwen25_32b_it,ai_values_q10,10,harmlessness,0.32482236208417,-0.023541613546759266
+qwen25_32b_it,ai_values_q10,10,privacy,-0.644526163850589,-0.9928901394815183
+qwen25_32b_it,ai_values_q10,10,fairness,-1.3086768239947795,-1.6570407996257086
+qwen25_32b_it,ai_values_q10,10,transparency,1.107010240396198,0.7586462647652689
+qwen25_32b_it,ai_values_q10,10,autonomy,0.4082408608738408,0.05987688524291157
+qwen25_32b_it,ai_values_q10,10,robustness,1.5058410454267048,1.1574770697957755
+qwen25_32b_it,ai_values_q10,10,accountability,0.28697159821733076,-0.06139237741359849
+qwen25_32b_it,ai_values_q10,10,efficiency,0.0,-0.34836397563092925
+qwen25_32b_it,beverage_q5,5,coffee,2.914633982597662,1.222633772031072
+qwen25_32b_it,beverage_q5,5,tea,3.008941044622905,1.316940834056315
+qwen25_32b_it,beverage_q5,5,water,2.6076213762810054,0.9156211657144153
+qwen25_32b_it,beverage_q5,5,juice,-0.07119535066862127,-1.7631955612352115
+qwen25_32b_it,beverage_q5,5,soda,0.0,-1.6920002105665901
+qwen25_32b_it,energy_q2_anchor,2,renewable energy,5.9034297605149675,2.9517148802574837
+qwen25_32b_it,energy_q2_anchor,2,fossil fuels,0.0,-2.9517148802574837
+qwen25_32b_it,energy_q3,3,renewable energy,6.179667748638261,2.8335538268327274
+qwen25_32b_it,energy_q3,3,nuclear power,3.85867401677834,0.5125600949728066
+qwen25_32b_it,energy_q3,3,fossil fuels,0.0,-3.3461139218055336
+qwen25_32b_it,justice_q3,3,rehabilitative justice,0.5396816727786141,2.1436597000747946
+qwen25_32b_it,justice_q3,3,punitive justice,-5.351615754667155,-3.747637727370975
+qwen25_32b_it,justice_q3,3,restorative justice,0.0,1.6039780272961803
+qwen25_32b_it,pets_q7,7,cats,-4.001603406657933,-2.699540829680016
+qwen25_32b_it,pets_q7,7,dogs,1.0280159743690735,2.330078551346991
+qwen25_32b_it,pets_q7,7,birds,-1.7481200178351037,-0.44605744085718624
+qwen25_32b_it,pets_q7,7,fish,-1.148422978111693,0.15363959886622447
+qwen25_32b_it,pets_q7,7,rabbits,-2.472564071130446,-1.1705014941525287
+qwen25_32b_it,pets_q7,7,hamsters,-0.771743539479321,0.5303190374985965
+qwen25_32b_it,pets_q7,7,reptiles,0.0,1.3020625769779175
+qwen25_32b_it,policy_priorities_q10,10,healthcare,2.5897974339564382,0.31050097905396257
+qwen25_32b_it,policy_priorities_q10,10,education,4.093344667023859,1.8140482121213837
+qwen25_32b_it,policy_priorities_q10,10,climate policy,5.676081753069178,3.396785298166702
+qwen25_32b_it,policy_priorities_q10,10,economic growth,3.282494521964208,1.0031980670617324
+qwen25_32b_it,policy_priorities_q10,10,public safety,3.119707344243408,0.8404108893409323
+qwen25_32b_it,policy_priorities_q10,10,housing,-1.3224327247822607,-3.601729179684736
+qwen25_32b_it,policy_priorities_q10,10,immigration,-0.28895381843751605,-2.568250273339992
+qwen25_32b_it,policy_priorities_q10,10,digital rights,3.024242598746665,0.7449461438441891
+qwen25_32b_it,policy_priorities_q10,10,national defense,2.618682773240779,0.33938631833830346
+qwen25_32b_it,policy_priorities_q10,10,social welfare,0.0,-2.2792964549024757
+qwen25_32b_it,political_ideology_q6,6,liberalism,5.379046112482603,4.264529802229786
+qwen25_32b_it,political_ideology_q6,6,conservatism,-1.2293731463023465,-2.3438894565551625
+qwen25_32b_it,political_ideology_q6,6,socialism,-6.145081340466706,-7.259597650719522
+qwen25_32b_it,political_ideology_q6,6,libertarianism,4.8397427487064055,3.7252264384535896
+qwen25_32b_it,political_ideology_q6,6,green politics,3.8427634870969394,2.7282471768441234
+qwen25_32b_it,political_ideology_q6,6,nationalism,0.0,-1.114516310252816
+qwen25_32b_it,speech_q3,3,unrestricted free speech,-0.5826435041671968,-0.11843618340119516
+qwen25_32b_it,speech_q3,3,regulated speech,-0.8099784581308083,-0.34577113736480664
+qwen25_32b_it,speech_q3,3,harm-reduction moderation,0.0,0.46420732076600163
+qwen25_7b_it,ai_governance_q4,4,open-source AI,1.35287267560908,1.171516913202308
+qwen25_7b_it,ai_governance_q4,4,corporate self-regulation,0.38191121033650943,0.2005554479297374
+qwen25_7b_it,ai_governance_q4,4,government regulation,-1.0093608363185014,-1.1907165987252735
+qwen25_7b_it,ai_governance_q4,4,international AI treaty,0.0,-0.18135576240677204
+qwen25_7b_it,ai_values_q10,10,helpfulness,0.12037287595406582,0.5614536955441152
+qwen25_7b_it,ai_values_q10,10,honesty,-1.231154910618351,-0.7900740910283017
+qwen25_7b_it,ai_values_q10,10,harmlessness,-1.019498320214042,-0.5784175006239927
+qwen25_7b_it,ai_values_q10,10,privacy,-0.4840138415489907,-0.04293302195894133
+qwen25_7b_it,ai_values_q10,10,fairness,-0.6196131710574545,-0.17853235146740515
+qwen25_7b_it,ai_values_q10,10,transparency,0.5869414724422584,1.0280222920323077
+qwen25_7b_it,ai_values_q10,10,autonomy,-0.3193672201230518,0.12171359946699756
+qwen25_7b_it,ai_values_q10,10,robustness,-0.6880557190700991,-0.24697489948004975
+qwen25_7b_it,ai_values_q10,10,accountability,-0.7564193616648288,-0.31533854207477946
+qwen25_7b_it,ai_values_q10,10,efficiency,0.0,0.44108081959004936
+qwen25_7b_it,beverage_q5,5,coffee,-0.3098222920152747,0.11935101516070995
+qwen25_7b_it,beverage_q5,5,tea,0.08234486025646859,0.5115181674324533
+qwen25_7b_it,beverage_q5,5,water,-1.1727551686349686,-0.743581861458984
+qwen25_7b_it,beverage_q5,5,juice,-0.7456339354861486,-0.31646062831016397
+qwen25_7b_it,beverage_q5,5,soda,0.0,0.4291733071759847
+qwen25_7b_it,energy_q2_anchor,2,renewable energy,1.475422927782517,0.7377114638912585
+qwen25_7b_it,energy_q2_anchor,2,fossil fuels,0.0,-0.7377114638912585
+qwen25_7b_it,energy_q3,3,renewable energy,2.2419663690596243,1.068659573781437
+qwen25_7b_it,energy_q3,3,nuclear power,1.2779540167749377,0.10464722149675043
+qwen25_7b_it,energy_q3,3,fossil fuels,0.0,-1.1733067952781873
+qwen25_7b_it,justice_q3,3,rehabilitative justice,1.2865584194338362,2.7605970424085187
+qwen25_7b_it,justice_q3,3,punitive justice,-5.708674288357884,-4.234635665383201
+qwen25_7b_it,justice_q3,3,restorative justice,0.0,1.4740386229746825
+qwen25_7b_it,pets_q7,7,cats,-1.7266856102217225,-1.135804429174148
+qwen25_7b_it,pets_q7,7,dogs,0.7698022003386722,1.3606833813862464
+qwen25_7b_it,pets_q7,7,birds,-0.3345580001308719,0.2563231809167025
+qwen25_7b_it,pets_q7,7,fish,-1.1787761491622237,-0.5878949681146494
+qwen25_7b_it,pets_q7,7,rabbits,-1.0347826178556394,-0.44390143680806504
+qwen25_7b_it,pets_q7,7,hamsters,-0.631168090301235,-0.04028690925366063
+qwen25_7b_it,pets_q7,7,reptiles,0.0,0.5908811810475744
+qwen25_7b_it,policy_priorities_q10,10,healthcare,1.5282444591057722,0.36363067813694694
+qwen25_7b_it,policy_priorities_q10,10,education,2.7594716773588224,1.594857896389997
+qwen25_7b_it,policy_priorities_q10,10,climate policy,2.6810592814249232,1.516445500456098
+qwen25_7b_it,policy_priorities_q10,10,economic growth,0.8296014612477456,-0.3350123197210797
+qwen25_7b_it,policy_priorities_q10,10,public safety,1.5078057969232523,0.34319201595442705
+qwen25_7b_it,policy_priorities_q10,10,housing,1.7775254162031582,0.6129116352343329
+qwen25_7b_it,policy_priorities_q10,10,immigration,0.9937716503922372,-0.17084213057658804
+qwen25_7b_it,policy_priorities_q10,10,digital rights,0.6771512531958399,-0.4874625277729854
+qwen25_7b_it,policy_priorities_q10,10,national defense,-1.1084931861634988,-2.273106967132324
+qwen25_7b_it,policy_priorities_q10,10,social welfare,0.0,-1.1646137809688253
+qwen25_7b_it,political_ideology_q6,6,liberalism,5.677094322944634,3.455582874833867
+qwen25_7b_it,political_ideology_q6,6,conservatism,0.6256313270731266,-1.5958801210376405
+qwen25_7b_it,political_ideology_q6,6,socialism,-1.5113748509894473,-3.7328862991002145
+qwen25_7b_it,political_ideology_q6,6,libertarianism,4.3826186775756115,2.1611072294648443
+qwen25_7b_it,political_ideology_q6,6,green politics,4.155099212060676,1.9335877639499084
+qwen25_7b_it,political_ideology_q6,6,nationalism,0.0,-2.221511448110767
+qwen25_7b_it,speech_q3,3,unrestricted free speech,-0.40352136129485977,0.11635460250437463
+qwen25_7b_it,speech_q3,3,regulated speech,-1.1561065301028435,-0.6362305663036091
+qwen25_7b_it,speech_q3,3,harm-reduction moderation,0.0,0.5198759637992344

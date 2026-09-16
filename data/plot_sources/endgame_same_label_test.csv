@@ -1,0 +1,7 @@
+model,N,displayed,n_lead,n_other,labels,queries,p_lead,p_other
+qwen25_7b_it,100,99,50,49,aa_ab,300,0.497,0.503
+qwen25_7b_it,100,99,70,29,aa_ab,300,0.847,0.153
+qwen25_7b_it,100,99,97,2,aa_ab,300,0.993,0.007
+qwen25_7b_it,100,99,50,49,q50_pool,300,0.503,0.497
+qwen25_7b_it,100,99,70,29,q50_pool,300,0.687,0.313
+qwen25_7b_it,100,99,97,2,q50_pool,300,0.863,0.137

@@ -1,0 +1,10 @@
+# analysis and figures
+numpy
+pandas
+scipy
+matplotlib
+jupyter
+
+# model runs only: CUDA GPU with 80 GB memory, Hugging Face access.
+# Two vLLM environments were used (Gemma 4 needed a nightly build), versions in the README.
+# The replication run used vllm 0.11.2 and torch 2.9.0

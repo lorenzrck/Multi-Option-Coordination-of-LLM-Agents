@@ -1,0 +1,233 @@
+model_label,state,q,n_display,counts,chosen_role,n
+gemma4_31B_dense,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",0,134
+gemma4_31B_dense,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",1,14
+gemma4_31B_dense,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",9,2
+gemma4_31B_dense,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",0,129
+gemma4_31B_dense,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",1,21
+gemma4_31B_dense,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",0,70
+gemma4_31B_dense,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",1,80
+gemma4_31B_dense,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",0,68
+gemma4_31B_dense,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",1,24
+gemma4_31B_dense,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",2,36
+gemma4_31B_dense,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",3,14
+gemma4_31B_dense,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",4,8
+gemma4_31B_dense,q5_online_control,5,49,"[20, 8, 7, 7, 7]",0,149
+gemma4_31B_dense,q5_online_control,5,49,"[20, 8, 7, 7, 7]",2,1
+gemma4_31B_dense,q5_staircase,5,49,"[20, 15, 10, 2, 2]",0,143
+gemma4_31B_dense,q5_staircase,5,49,"[20, 15, 10, 2, 2]",1,6
+gemma4_31B_dense,q5_staircase,5,49,"[20, 15, 10, 2, 2]",4,1
+gemma4_31B_dense,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",0,135
+gemma4_31B_dense,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",1,14
+gemma4_31B_dense,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",4,1
+gemma4_31B_dense,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",0,81
+gemma4_31B_dense,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",1,68
+gemma4_31B_dense,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",4,1
+gemma4_E4B_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",0,89
+gemma4_E4B_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",1,48
+gemma4_E4B_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",2,11
+gemma4_E4B_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",3,1
+gemma4_E4B_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",4,1
+gemma4_E4B_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",0,91
+gemma4_E4B_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",1,59
+gemma4_E4B_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",0,75
+gemma4_E4B_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",1,75
+gemma4_E4B_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",0,44
+gemma4_E4B_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",1,28
+gemma4_E4B_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",2,41
+gemma4_E4B_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",3,19
+gemma4_E4B_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",4,18
+gemma4_E4B_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",0,146
+gemma4_E4B_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",1,1
+gemma4_E4B_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",2,1
+gemma4_E4B_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",3,1
+gemma4_E4B_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",4,1
+gemma4_E4B_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",0,106
+gemma4_E4B_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",1,40
+gemma4_E4B_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",2,4
+gemma4_E4B_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",0,91
+gemma4_E4B_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",1,59
+gemma4_E4B_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",0,62
+gemma4_E4B_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",1,88
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",0,47
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",1,27
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",2,22
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",3,14
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",4,16
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",5,7
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",6,7
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",7,2
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",8,5
+llama31_8b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",9,3
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",0,56
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",1,46
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",2,10
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",3,3
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",4,5
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",5,7
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",6,8
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",7,3
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",8,9
+llama31_8b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",9,3
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",0,50
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",1,66
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",2,3
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",3,2
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",4,5
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",5,7
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",6,2
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",7,3
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",8,4
+llama31_8b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",9,8
+llama31_8b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",0,37
+llama31_8b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",1,31
+llama31_8b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",2,26
+llama31_8b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",3,23
+llama31_8b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",4,33
+llama31_8b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",0,100
+llama31_8b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",1,11
+llama31_8b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",2,12
+llama31_8b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",3,8
+llama31_8b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",4,19
+llama31_8b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",0,98
+llama31_8b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",1,34
+llama31_8b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",2,13
+llama31_8b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",3,2
+llama31_8b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",4,3
+llama31_8b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",0,70
+llama31_8b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",1,56
+llama31_8b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",2,9
+llama31_8b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",3,10
+llama31_8b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",4,5
+llama31_8b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",0,58
+llama31_8b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",1,56
+llama31_8b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",2,8
+llama31_8b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",3,13
+llama31_8b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",4,15
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",0,65
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",1,32
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",2,16
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",3,4
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",4,6
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",5,5
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",6,3
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",7,7
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",8,3
+llama3_70b_awq,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",9,9
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",0,55
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",1,59
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",2,4
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",3,2
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",4,8
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",5,6
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",6,2
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",7,10
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",8,3
+llama3_70b_awq,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",9,1
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",0,65
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",1,63
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",2,3
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",3,5
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",4,3
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",5,3
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",6,1
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",7,3
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",8,2
+llama3_70b_awq,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",9,2
+llama3_70b_awq,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",0,29
+llama3_70b_awq,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",1,24
+llama3_70b_awq,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",2,28
+llama3_70b_awq,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",3,31
+llama3_70b_awq,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",4,38
+llama3_70b_awq,q5_online_control,5,49,"[20, 8, 7, 7, 7]",0,78
+llama3_70b_awq,q5_online_control,5,49,"[20, 8, 7, 7, 7]",1,12
+llama3_70b_awq,q5_online_control,5,49,"[20, 8, 7, 7, 7]",2,15
+llama3_70b_awq,q5_online_control,5,49,"[20, 8, 7, 7, 7]",3,19
+llama3_70b_awq,q5_online_control,5,49,"[20, 8, 7, 7, 7]",4,26
+llama3_70b_awq,q5_staircase,5,49,"[20, 15, 10, 2, 2]",0,68
+llama3_70b_awq,q5_staircase,5,49,"[20, 15, 10, 2, 2]",1,35
+llama3_70b_awq,q5_staircase,5,49,"[20, 15, 10, 2, 2]",2,22
+llama3_70b_awq,q5_staircase,5,49,"[20, 15, 10, 2, 2]",3,13
+llama3_70b_awq,q5_staircase,5,49,"[20, 15, 10, 2, 2]",4,12
+llama3_70b_awq,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",0,53
+llama3_70b_awq,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",1,57
+llama3_70b_awq,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",2,6
+llama3_70b_awq,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",3,17
+llama3_70b_awq,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",4,17
+llama3_70b_awq,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",0,51
+llama3_70b_awq,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",1,55
+llama3_70b_awq,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",2,13
+llama3_70b_awq,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",3,14
+llama3_70b_awq,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",4,17
+qwen25_32b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",0,90
+qwen25_32b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",1,33
+qwen25_32b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",2,11
+qwen25_32b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",3,8
+qwen25_32b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",4,4
+qwen25_32b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",6,1
+qwen25_32b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",8,2
+qwen25_32b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",9,1
+qwen25_32b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",0,88
+qwen25_32b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",1,60
+qwen25_32b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",2,1
+qwen25_32b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",6,1
+qwen25_32b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",0,75
+qwen25_32b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",1,74
+qwen25_32b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",8,1
+qwen25_32b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",0,49
+qwen25_32b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",1,27
+qwen25_32b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",2,26
+qwen25_32b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",3,19
+qwen25_32b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",4,29
+qwen25_32b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",0,135
+qwen25_32b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",1,7
+qwen25_32b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",2,1
+qwen25_32b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",3,2
+qwen25_32b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",4,5
+qwen25_32b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",0,115
+qwen25_32b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",1,29
+qwen25_32b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",2,4
+qwen25_32b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",3,1
+qwen25_32b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",4,1
+qwen25_32b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",0,87
+qwen25_32b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",1,63
+qwen25_32b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",0,84
+qwen25_32b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",1,64
+qwen25_32b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",3,1
+qwen25_32b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",4,1
+qwen25_7b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",0,91
+qwen25_7b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",1,41
+qwen25_7b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",2,12
+qwen25_7b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",3,2
+qwen25_7b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",4,2
+qwen25_7b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",6,1
+qwen25_7b_it,q10_staircase,10,49,"[12, 10, 7, 5, 4, 3, 3, 2, 2, 1]",7,1
+qwen25_7b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",0,93
+qwen25_7b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",1,54
+qwen25_7b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",6,1
+qwen25_7b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",7,1
+qwen25_7b_it,q10_strong_runner,10,49,"[14, 12, 3, 3, 3, 3, 3, 3, 3, 2]",9,1
+qwen25_7b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",0,68
+qwen25_7b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",1,79
+qwen25_7b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",2,1
+qwen25_7b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",5,1
+qwen25_7b_it,q10_two_leader_tie,10,49,"[14, 14, 3, 3, 3, 3, 3, 2, 2, 2]",7,1
+qwen25_7b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",0,62
+qwen25_7b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",1,28
+qwen25_7b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",2,24
+qwen25_7b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",3,20
+qwen25_7b_it,q5_one_agent_lead,5,49,"[11, 10, 10, 9, 9]",4,16
+qwen25_7b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",0,136
+qwen25_7b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",1,7
+qwen25_7b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",2,2
+qwen25_7b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",3,2
+qwen25_7b_it,q5_online_control,5,49,"[20, 8, 7, 7, 7]",4,3
+qwen25_7b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",0,110
+qwen25_7b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",1,34
+qwen25_7b_it,q5_staircase,5,49,"[20, 15, 10, 2, 2]",2,6
+qwen25_7b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",0,108
+qwen25_7b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",1,41
+qwen25_7b_it,q5_strong_runner,5,49,"[20, 17, 5, 5, 2]",2,1
+qwen25_7b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",0,76
+qwen25_7b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",1,72
+qwen25_7b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",2,1
+qwen25_7b_it,q5_two_leader_tie,5,49,"[17, 17, 5, 5, 5]",3,1
